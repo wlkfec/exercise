@@ -1,0 +1,12 @@
+server:
+  port: 8761
+
+app:
+  id: shimaoiot3
+apollo:
+  meta: http://47.101.175.11:8080
+  bootstrap:
+    namespaces: application,common
+    enabled: true
+    eagerLoad:
+      enabled: true
