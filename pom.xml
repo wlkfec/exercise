@@ -30,6 +30,12 @@
         <module>user-service</module>
         <module>ribbon-service</module>
         <module>hystrix-service</module>
+        <module>hystrix-mianban</module>
+        <module>turbine-service</module>
+        <module>feign-service</module>
+        <module>zuul-proxy</module>
+        <module>config-server</module>
+        <module>config-client</module>
     </modules>
 
 </project>
